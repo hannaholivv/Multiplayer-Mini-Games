@@ -1,1 +1,1 @@
-# Multiplayer-Mini-Games
+# Multiplayer Mini Games
